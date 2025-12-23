@@ -1,7 +1,3 @@
-# Assigment 1 - Report
-**task1.pdf** - open it
-
----
 # Assigment 2 - Codes
 ``` python
 python assigments/task2_1.py
