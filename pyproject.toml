@@ -1,0 +1,14 @@
+[project]
+name = "assigment2-qa"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "behave>=1.3.3",
+    "html-testrunner>=1.2.1",
+    "openpyxl>=3.1.5",
+    "requests>=2.32.5",
+    "selenium>=4.39.0",
+    "webdriver-manager>=4.0.2",
+]
