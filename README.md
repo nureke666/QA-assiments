@@ -24,13 +24,3 @@ python assigments/task4.py
 python assigments/task5.py
 ```
 ---
-# Assigment 6 - Code
-``` python
-python assigments/assigment6/data.py
-python assigments/assigment6/task6.py
-```
----
-# Assigment 7-8 - Code
-``` python
-
-```
